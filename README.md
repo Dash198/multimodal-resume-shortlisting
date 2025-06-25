@@ -77,7 +77,6 @@ Here's the demo at [Hugging Face](https://huggingface.co/spaces/Dash-198/multimo
 
 ## 📌 Future Work
 
-- Deploy using [🤗 Hugging Face Spaces](https://huggingface.co/spaces)
 - Replace synthetic labels with real annotations
 - Add interpretability (attention, SHAP)
 - Explore transformer-based resume encoders
