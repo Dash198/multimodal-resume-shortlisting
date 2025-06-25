@@ -69,9 +69,9 @@ Tabular Data → MLP → Feature Vector (64D)
 
 ---
 
-## 🏁 How to Run
+## Demo
 
-This repo is mostly just a demo run, the full demo will be avaialable on Hugging Face soon ;)
+Here's the demo at [Hugging Face](https://huggingface.co/spaces/Dash-198/multimodal-resume-shortlisting-demo)
 
 ---
 
