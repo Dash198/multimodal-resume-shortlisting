@@ -71,11 +71,7 @@ Tabular Data → MLP → Feature Vector (64D)
 
 ## 🏁 How to Run
 
-1. Clone the repo  
-2. Install dependencies  
-3. Run `main.py` or your notebook  
-4. Train/evaluate models  
-5. Use `FusionClassifier` to test predictions on new data
+This repo is mostly just a demo run, the full demo will be avaialable on Hugging Face soon ;)
 
 ---
 
